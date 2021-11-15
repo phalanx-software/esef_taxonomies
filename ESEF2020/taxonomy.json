@@ -21,7 +21,8 @@
   "imports": {
     "http://www.xbrl.org/2003/instance": "http://www.xbrl.org/2003/xbrl-instance-2003-12-31.xsd",
     "http://xbrl.org/2005/xbrldt": "http://www.xbrl.org/2005/xbrldt-2005.xsd",
-    "http://www.esma.europa.eu/taxonomy/2020-03-16/esef_cor": "http://www.esma.europa.eu/taxonomy/2020-03-16/esef_cor.xsd"
+    "http://www.esma.europa.eu/taxonomy/2020-03-16/esef_cor": "http://www.esma.europa.eu/taxonomy/2020-03-16/esef_cor.xsd",
+    "http://www.xbrl.org/dtr/type/non-numeric": "http://www.xbrl.org/dtr/type/nonnumeric-2009-12-16.xsd"
   },
   "prefixes": {
     "ifrs-full": "http://xbrl.ifrs.org/taxonomy/2020-03-16/full_ifrs/full_ifrs-cor_2020-03-16.xsd",
