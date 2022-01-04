@@ -16,7 +16,7 @@
     "xbrldt": "http://xbrl.org/2005/xbrldt",
     "esef_cor": "http://www.esma.europa.eu/taxonomy/2021-03-24/esef_cor",
     "xsi": "http://www.w3.org/2001/XMLSchema-instance",
-    "ifrs-full": "http://xbrl.ifrs.org/taxonomy/2020-03-24/ifrs-full"
+    "ifrs-full": "http://xbrl.ifrs.org/taxonomy/2021-03-24/ifrs-full"
   },
   "imports": {
     "http://www.xbrl.org/2003/instance": "http://www.xbrl.org/2003/xbrl-instance-2003-12-31.xsd",
