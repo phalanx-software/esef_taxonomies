@@ -25,7 +25,7 @@
     "http://www.xbrl.org/dtr/type/non-numeric": "http://www.xbrl.org/dtr/type/nonnumeric-2009-12-16.xsd"
   },
   "prefixes": {
-    "ifrs-full": "http://xbrl.ifrs.org/taxonomy/2022-03-24/full_ifrs/full_ifrs-cor_2022-03-24.xsd",
+    "ifrs-full": "https://xbrl.ifrs.org/taxonomy/2022-03-24/full_ifrs/full_ifrs-cor_2022-03-24.xsd",
     "esef_cor": "http://www.esma.europa.eu/taxonomy/2022-03-24/esef_cor.xsd"
   }
 }
