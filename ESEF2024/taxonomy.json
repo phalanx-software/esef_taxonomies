@@ -13,19 +13,19 @@
     "iso4217": "http://www.xbrl.org/2003/iso4217",
     "num": "http://www.xbrl.org/dtr/type/numeric",
     "xbrldt": "http://xbrl.org/2005/xbrldt",
-    "esef_cor": "http://www.esma.europa.eu/taxonomy/2024-03-27/esef_cor",
+    "esef_cor": "https://www.esma.europa.eu/taxonomy/2024-03-27/esef_cor",
     "xsi": "http://www.w3.org/2001/XMLSchema-instance",
-    "ifrs-full": "http://xbrl.ifrs.org/taxonomy/2024-03-27/ifrs-full",
+    "ifrs-full": "https://xbrl.ifrs.org/taxonomy/2024-03-27/ifrs-full",
     "types": "http://www.xbrl.org/dtr/type/2022-03-31"
   },
   "imports": {
     "http://www.xbrl.org/2003/instance": "http://www.xbrl.org/2003/xbrl-instance-2003-12-31.xsd",
     "http://xbrl.org/2005/xbrldt": "http://www.xbrl.org/2005/xbrldt-2005.xsd",
-    "http://www.esma.europa.eu/taxonomy/2024-03-27/esef_cor": "http://www.esma.europa.eu/taxonomy/2024-03-27/esef_cor.xsd",
+    "https://www.esma.europa.eu/taxonomy/2024-03-27/esef_cor": "https://www.esma.europa.eu/taxonomy/2024-03-27/esef_cor.xsd",
     "http://www.xbrl.org/dtr/type/2022-03-31": "https://www.xbrl.org/dtr/type/2022-03-31/types.xsd"
   },
   "prefixes": {
-    "ifrs-full": "http://xbrl.ifrs.org/taxonomy/2024-03-27/full_ifrs/full_ifrs-cor_2024-03-27.xsd",
-    "esef_cor": "http://www.esma.europa.eu/taxonomy/2024-03-27/esef_cor.xsd"
+    "ifrs-full": "https://xbrl.ifrs.org/taxonomy/2024-03-27/full_ifrs/full_ifrs-cor_2024-03-27.xsd",
+    "esef_cor": "https://www.esma.europa.eu/taxonomy/2024-03-27/esef_cor.xsd"
   }
 }
